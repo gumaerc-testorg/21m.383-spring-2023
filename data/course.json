@@ -1,0 +1,61 @@
+{
+  "term": "Spring",
+  "year": "2023",
+  "level": [
+    "Undergraduate",
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Fine Arts",
+      "Music",
+      "Music History"
+    ],
+    [
+      "Fine Arts",
+      "Music",
+      "Music Theory"
+    ],
+    [
+      "Mathematics",
+      "Mathematical Analysis"
+    ],
+    [
+      "Mathematics",
+      "Probability and Statistics"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "23def793-7f25-511d-c893-bf84e3cf31dc"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "840f3f79-0011-4911-9d59-8ad8a77cc94d",
+    "website": "computational-music-theory-and-analysis"
+  },
+  "course_title": "Computational Music Theory and Analysis",
+  "hide_download": false,
+  "mit_learn_topics": [],
+  "course_description": "This course presents major approaches to computational music theory and musicology in the symbolic (score-based) domain. It covers algorithms for music theory, encoding, corpus studies, musical search and similarity, feature extraction and machine learning, music generation, and computational music perception. Other topics include repertory access and computational bias. Programming assignments are in [Python](https://www.python.org/) using the MIT-created [music21 toolkit.](https://www.music21.org/music21docs/)",
+  "department_numbers": [
+    "21M"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21M.383",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "computational-music-theory-and-analysis"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Lecture Videos",
+    "Other Video",
+    "Multiple Assignment Types"
+  ],
+  "site_uid": "a326c126-6eca-4dfc-9205-861af49a7fce",
+  "site_short_id": "21m.383-spring-2023",
+  "site_url_path": "courses/21m-383-computational-music-theory-and-analysis-spring-2023"
+}
