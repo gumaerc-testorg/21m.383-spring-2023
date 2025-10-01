@@ -9,4 +9,4 @@ Problem set 9 is a group problem set that can be done together from start to end
 
 File: {{% resource_link "a3e7c68f-1b3e-4f6e-83e1-f1acfaa213dd" "Problem Set 9: Vocabulary Reduction Key Analysis (IPYNB)" %}}
 
-If you want to use Google Colab to share your work, you can save yourself some trouble and start with this [music21 lab notebook](https://tinyurl.com/music21-colab).
+If you want to use Google Colab to share your work, you can save yourself some trouble and start with this {{% resource_link "78190729-2285-446c-83b4-00c851c9949d" "music21 lab notebook" %}}.

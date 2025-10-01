@@ -11,13 +11,13 @@ Lectures: 2 sessions / week, 1.5 hours / session + 1 hour asynchronous lecture c
 
 ## Prerequisites
 
-A background in music theory, e.g., [*21M.301 Harmony and Counterpoint I*](https://ocw.mit.edu/courses/21m-301-harmony-and-counterpoint-i-spring-2005/), [*21M.302 Harmony and Counterpoint II*,](https://ocw.mit.edu/courses/21m-302-harmony-and-counterpoint-ii-spring-2005/) or [*21M.303 Writing in Tonal Forms I*](https://ocw.mit.edu/courses/21m-303-writing-in-tonal-forms-i-spring-2009/)*,* and prior experience in computer programming, e.g., *6.1010 Fundamentals of Programming,* is required or by permission from the instructor.
+A background in music theory, e.g., {{% resource_link "0fa32d9d-fe5f-4057-94fa-513e8b96edbe" "*21M.301 Harmony and Counterpoint I*" %}}, {{% resource_link "5a049b08-b085-4d3e-852c-aab1413a8e43" "*21M.302 Harmony and Counterpoint II*," %}} or {{% resource_link "1e65dfbb-0a04-447e-be91-9b8e9316cac9" "*21M.303 Writing in Tonal Forms I*" %}}*,* and prior experience in computer programming, e.g., *6.1010 Fundamentals of Programming,* is required or by permission from the instructor.
 
 ## Description
 
 This class presents major approaches to computational music theory and musicology in the symbolic (score-based) domain. It covers algorithms for music theory, encoding, corpus studies, musical search and similarity, feature extraction and machine learning, music generation, and computational music perception. Other topics include repertory access and computational bias. Programming assignments are given in Python using the MIT-created music21 toolkit. The class culminates in a two-person-group research project in computational music theory, computational musicology, or creative music theory that will be presented to the class.
 
-This class meets the MIT [HASS-A course](https://registrar.mit.edu/registration-academics/academic-requirements/hass-requirement) requirement.
+This class meets the MIT {{% resource_link "cb65013c-d7c3-43db-98fc-752447a088f3" "HASS-A course" %}} requirement.
 
 ## Requirements and Grading
 
@@ -53,16 +53,16 @@ The final project is an original research or creative project using materials fr
 
 ## Required Text and Materials
 
-- [music21 User's Guide, Chapters 1–30](https://www.music21.org/music21docs/usersGuide/)
+- {{% resource_link "baf2d3e3-8d29-453a-84fe-068c21a1f6e8" "music21 User's Guide, Chapters 1–30" %}}
 - Laptop computer with Windows or MacOS installed. *If you choose to use Unix, etc., any problems with any assignments will fall entirely on you and I cannot provide technical support. Set up a dual-boot environment for win/ac.* 
 - music21 v.8.1 (to be upgraded to v.9 soon) and Python 3.10 or higher installed
 
 ### Recommended texts
 
-- David Huron. [*Sweet Anticipation: Music and the Psychology of Expectation*](https://mitpress.mit.edu/9780262582780). MIT Press, 2006. ISBN: 9780262582780. \[Preview with [Google Books](http://books.google.com/books?id=uyI_Cb8olkMC&pg=PAfrontcover#v=onepage)\]
-- Dmitri Tymoczko. *A Geometry of Music: Harmony and Counterpoint in the Extended Common Practice*. Oxford University Press, 2011. ISBN: 9780199887507. \[Preview with [Google Books](http://books.google.com/books?id=ODSt58Yk2YYC&pg=PAfrontcover#v=onepage)\]
-- Carol Krumhansl, [*Cognitive Foundations of Musical Pitch*](https://global.oup.com/academic/product/cognitive-foundations-of-musical-pitch-9780195148367?cc=us&lang=en&#) (Oxford, 1990). ISBN: 978-0195148367. \[Preview with [Google Books](https://www.google.com/books/edition/Cognitive_Foundations_of_Musical_Pitch/aJDEVqyArr4C?hl=en&gbpv=0)\]
-- David Temperley. “Probabilistic Foundations and Background.” Chapter 2 in [*Music and Probability*](https://mitpress.mit.edu/9780262515191). MIT Press, 2006. ISBN: 9780262201667. \[Preview at [MIT Press](https://direct.mit.edu/books/monograph/2326/chapter/60959/Probabilistic-Foundations-and-Background)\]
+- David Huron. {{% resource_link "cc97159c-0e75-481f-b47e-ff729420fdbe" "*Sweet Anticipation: Music and the Psychology of Expectation*" %}}. MIT Press, 2006. ISBN: 9780262582780. \[Preview with {{% resource_link "7f3060d1-1ba1-42ee-b32a-86f4817dcde0" "Google Books" %}}\]
+- Dmitri Tymoczko. *A Geometry of Music: Harmony and Counterpoint in the Extended Common Practice*. Oxford University Press, 2011. ISBN: 9780199887507. \[Preview with {{% resource_link "7e764cbf-389f-4e55-8fa5-ac425601d762" "Google Books" %}}\]
+- Carol Krumhansl, {{% resource_link "aaa030af-5406-4973-abc2-21d966f7d794" "*Cognitive Foundations of Musical Pitch*" %}} (Oxford, 1990). ISBN: 978-0195148367. \[Preview with {{% resource_link "ebd9d002-8529-425c-99dc-0cd1b5d8c036" "Google Books" %}}\]
+- David Temperley. “Probabilistic Foundations and Background.” Chapter 2 in {{% resource_link "8957a28b-72b6-4686-8471-a5cd82532f55" "*Music and Probability*" %}}. MIT Press, 2006. ISBN: 9780262201667. \[Preview at {{% resource_link "ee04a06b-2ad2-4353-9995-77228728347a" "MIT Press" %}}\]
 
 ### Topics
 

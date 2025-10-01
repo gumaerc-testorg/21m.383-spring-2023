@@ -39,7 +39,7 @@
   "course_title": "Computational Music Theory and Analysis",
   "hide_download": false,
   "mit_learn_topics": [],
-  "course_description": "This course presents major approaches to computational music theory and musicology in the symbolic (score-based) domain. It covers algorithms for music theory, encoding, corpus studies, musical search and similarity, feature extraction and machine learning, music generation, and computational music perception. Other topics include repertory access and computational bias. Programming assignments are in [Python](https://www.python.org/) using the MIT-created [music21 toolkit.](https://www.music21.org/music21docs/)",
+  "course_description": "This course presents major approaches to computational music theory and musicology in the symbolic (score-based) domain. It covers algorithms for music theory, encoding, corpus studies, musical search and similarity, feature extraction and machine learning, music generation, and computational music perception. Other topics include repertory access and computational bias. Programming assignments are in {{% resource_link \"db7922b3-bf91-4a02-b3b1-92b1345cfb2f\" \"Python\" %}} using the MIT-created {{% resource_link \"078ed66c-bf67-4c1b-adcd-caf5cc0c4c0e\" \"music21 toolkit.\" %}}",
   "department_numbers": [
     "21M"
   ],
