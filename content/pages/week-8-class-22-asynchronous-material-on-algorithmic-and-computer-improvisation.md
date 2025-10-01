@@ -14,4 +14,4 @@ Video 22c is an introduction by the instructor to algorithmic improvisation and 
 
 Watch this talk by George Lewis on algorithmic improvisation. Be ready to answer the question: Why does George Lewis think we should teach computers to improvise?
 
-[Video 22d: Why Do We Want Our Computers to Improvise?](https://www.youtube.com/watch?v=wDP8FsjyCaA) (George Lewis at Berlin's CTM Festival, 2018)
+{{% resource_link "aa3e54ac-7d97-4903-a8d8-6154342ab2a6" "Video 22d: Why Do We Want Our Computers to Improvise?" %}} (George Lewis at Berlin's CTM Festival, 2018)

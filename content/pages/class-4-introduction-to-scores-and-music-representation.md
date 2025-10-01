@@ -9,7 +9,7 @@ uid: 77c49794-0665-44ec-a5d4-51c873dd7e0b
 
 *Computational music theory and analysis* falls under the broader spectrum of "computational musicology" (where musicology is in its broadest sense the study of music). In a landmark article on the topic, Nicholas Cook lays out his view of what might be done with computational musicology, why it hasn't been adopted widely, and what might be done with it. The article is from 2004, but it is still true.
 
-**Reading:** Nicholas Cook, "Computational and Comparative Musicology," in *Empirical Musicology: Aims, Methods, Prospects* (ed. Eric Clarke and Nicholas Cook), Oxford University Press, 2004, pp. 103-126. ISBN: 9780195167504. \[Preview with [Google Books](http://books.google.com/books?id=jJg-IyOsvnYC&pg=PA103#v=onepage)\]
+**Reading:** Nicholas Cook, "Computational and Comparative Musicology," in *Empirical Musicology: Aims, Methods, Prospects* (ed. Eric Clarke and Nicholas Cook), Oxford University Press, 2004, pp. 103-126. ISBN: 9780195167504. \[Preview with {{% resource_link "2ab1dbf0-d52f-416c-9944-d2d8b7ab69ca" "Google Books" %}}\]
 
 First, read the article. Watch the next (optional) video for strategies on how to read an academic article.
 

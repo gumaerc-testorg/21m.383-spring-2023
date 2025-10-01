@@ -30,7 +30,7 @@ Discussion topics for Selfridge-Field reading:
 
 **Optional Reading:** Donald Byrd on the "Extremes of Conventional Music Notation"
 
-Donald Byrd, “[Extremes of Conventional Music Notation](https://homes.luddy.indiana.edu/donbyrd/CMNExtremes.htm),” (online resource, 2000(?)–2018).
+Donald Byrd, “{{% resource_link "8b51474d-13e9-4264-8032-e4487d14c6df" "Extremes of Conventional Music Notation" %}},” (online resource, 2000(?)–2018).
 
 We've talked in class twice about where Common Western Music Notation (CWMN), or as some say, Conventional Music Notation (CMN), moves into something else. Indiana University professor Donald Byrd has made a career of seeing where the lines break down and where assumptions and ontologies about what "Western music" is break down. If you're interested in pushing these limits, read his list about the extremes of this notation.
 
@@ -38,4 +38,4 @@ We've talked in class twice about where Common Western Music Notation (CWMN), or
 
 In case you're interested (just for fun), read the first five pages of this article, which gives a history of very long and very short musical durations and how music has slowed down over time. It's from a tribute article ("Festschrift") on the occasion of the retirement of a person named "Joe" (Joseph Connors, an art historian), in case the first paragraph makes no sense.
 
-Michael Scott Asado Cuthbert, [*Changing Musical Time in the Renaissance (and Today)*](https://www.trecento.com/research/Cuthbert_Changing_musical_time.pdf), for Festschrift Joseph Connors (forthcoming).
+Michael Scott Asado Cuthbert, {{% resource_link "461e1ee3-9d5a-4919-b947-244304d2f359" "*Changing Musical Time in the Renaissance (and Today)*" %}}, for Festschrift Joseph Connors (forthcoming).

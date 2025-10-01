@@ -9,9 +9,9 @@ uid: aa27cb02-11d7-4769-ba4c-6db1f818df8f
 
 Here are three corpora and representations for Roman numerals, in rough chronological order from oldest to newest:
 
-- Dmitri Tymoczko, Mark Gotham, Michael Scott Cuthbert, and Christopher Ariza “[The RomanText Format: A Flexible and Standard Method for Representing Roman Numeral Analyses,](https://dspace.mit.edu/handle/1721.1/137847.2)” *Proceedings of the International Society for Music Information Retrieval* (ISMIR) 20, (2019). 
-    - Files: mostly included in the [music21 corpus](https://www.music21.org/music21docs/about/referenceCorpus.html)
+- Dmitri Tymoczko, Mark Gotham, Michael Scott Cuthbert, and Christopher Ariza “{{% resource_link "9e333b2e-3da1-4674-9a3c-339839180115" "The RomanText Format: A Flexible and Standard Method for Representing Roman Numeral Analyses," %}}” *Proceedings of the International Society for Music Information Retrieval* (ISMIR) 20, (2019). 
+    - Files: mostly included in the {{% resource_link "8ee82c95-6bd0-4c7d-8bcf-704ff73e6371" "music21 corpus" %}}
 - Trevor de Clercq and David Temperley, “A Corpus Analysis of Rock Harmony,” *Popular Music* 30.1 (2011), pp. 47–70.
-    - Files: [http://rockcorpus.midside.com/](http://rockcorpus.midside.com/)
-- Markus Neuwirth, Daniel Harasim, Fabian C. Moss, Martin Rohrmeier, “[The Annotated Beethoven Corpus (ABC): A Dataset of Harmonic Analyses of All Beethoven String Quartets](https://www.frontiersin.org/articles/10.3389/fdigh.2018.00016/full),” *Frontiers in Digital Humanities,* 3 July 2018.
-    - Files: [https://github.com/DCMLab/ABC](https://github.com/DCMLab/ABC)
+    - Files: {{% resource_link "cbeb7250-31cb-4b96-99cf-7a9ead3c1a0c" "http://rockcorpus.midside.com/" %}}
+- Markus Neuwirth, Daniel Harasim, Fabian C. Moss, Martin Rohrmeier, “{{% resource_link "4b46e4fb-4846-4ae2-9ece-709bdfee9751" "The Annotated Beethoven Corpus (ABC): A Dataset of Harmonic Analyses of All Beethoven String Quartets" %}},” *Frontiers in Digital Humanities,* 3 July 2018.
+    - Files: {{% resource_link "8b5ccee5-a137-48a9-b649-c4ed8a677ffb" "https://github.com/DCMLab/ABC" %}}

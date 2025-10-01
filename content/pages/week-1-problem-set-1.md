@@ -9,7 +9,7 @@ Before starting Problem Set 1, read this excerpt from Dmitri Tymoczko:
 
 ## Reading for Problem Set 1
 
-Dmitri Tymoczko, [*A Geometry of Music: Harmony and Counterpoint in the Extended Common Practice*](https://dmitri.mycpanel.princeton.edu/geometry-of-music.html) (Oxford: Oxford University Press, 2011)*,* Chapter 2, pp. 28–38 (though just the first two lines of p. 38). 
+Dmitri Tymoczko, {{% resource_link "84308d90-cb85-4f68-aec7-55ce093684c3" "*A Geometry of Music: Harmony and Counterpoint in the Extended Common Practice*" %}} (Oxford: Oxford University Press, 2011)*,* Chapter 2, pp. 28–38 (though just the first two lines of p. 38). 
 
 ## Problem Set 1: Pitch Representation and Manipulation
 
@@ -21,4 +21,4 @@ Pay close attention to when problems in PSets assume pitch spelling matters and 
 
 ### A Note on the Universality of Octave Equivalence
 
-On p. 30, DT writes, "Octave equivalence seems nearly universal in human cultures."  Since the book came out, this has been shown not to be true. For those interested the article about it is in [*Current Biology* 29(19), 2019,](https://www.sciencedirect.com/science/article/pii/S096098221931036X) and written by a team including two people at MIT.
+On p. 30, DT writes, "Octave equivalence seems nearly universal in human cultures."  Since the book came out, this has been shown not to be true. For those interested the article about it is in {{% resource_link "4c24b5af-fdbc-484e-9864-3676fc531722" "*Current Biology* 29(19), 2019," %}} and written by a team including two people at MIT.

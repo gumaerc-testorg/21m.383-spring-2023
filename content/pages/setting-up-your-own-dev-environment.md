@@ -9,7 +9,7 @@ Until now, we used the Google `colab` notebook to quickly get started with compu
 
 In developing your tools and solving your problems, you will need to be able to work on your development system on your computer. This page is my explanation of how that works.
 
-We will do most of our coursework in Python, so before going on, make sure you're on Python 3.10 or 3.11 by downloading it from [https://www.python.org](https://www.python.org/). Later versions should work, but please upgrade if you are on an earlier version. Python 3.9 or below will not run the course software (3.8 and 3.9 are fine for the first few weeks).
+We will do most of our coursework in Python, so before going on, make sure you're on Python 3.10 or 3.11 by downloading it from {{% resource_link "db7922b3-bf91-4a02-b3b1-92b1345cfb2f" "https://www.python.org" %}}. Later versions should work, but please upgrade if you are on an earlier version. Python 3.9 or below will not run the course software (3.8 and 3.9 are fine for the first few weeks).
 
 Next open up the Terminal (Mac) or Command Line (PC) and install the Jupyter notebook with this command:
 

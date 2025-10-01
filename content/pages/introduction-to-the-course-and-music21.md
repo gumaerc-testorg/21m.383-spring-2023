@@ -15,11 +15,11 @@ As you proceed through this class, you'll be unlocking features of music21, but 
 
 Please read this review of music21 by Dmitri Tymoczko, a professor of music at Princeton. His name will return on the first PSet. I agree with some of Tymoczko's review, some I don't, and some I agreed with at the time he wrote, but now it's out of date.
 
-Dmitri Tymoczko, "[Review of Michael Cuthbert, Music21: a Toolkit for Computer-Aided Musicology](https://mtosmt.org/issues/mto.13.19.3/mto.13.19.3.tymoczko.html)" *Music Theory Online*, vol. 1, no. 3, Society for Music Theory, August 2013.
+Dmitri Tymoczko, "{{% resource_link "f4947ef8-313f-4dc1-a2f3-9a998e9bc9e1" "Review of Michael Cuthbert, Music21: a Toolkit for Computer-Aided Musicology" %}}" *Music Theory Online*, vol. 1, no. 3, Society for Music Theory, August 2013.
 
-Link: [music21 Documentation](http://web.mit.edu/music21/)
+Link: {{% resource_link "7f5bdb01-e6b1-4c71-8b04-e7d33015d039" "music21 Documentation" %}}
 
-Link: [Open music21 Setup in a New Window](https://tinyurl.com/music21-colab)
+Link: {{% resource_link "78190729-2285-446c-83b4-00c851c9949d" "Open music21 Setup in a New Window" %}}
 
 {{% resource_link "7107b06f-f9da-4f59-a6ad-6bf1e899adb5" "Setting Up Your Own Dev Environment" %}}
 

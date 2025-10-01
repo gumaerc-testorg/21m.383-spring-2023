@@ -12,4 +12,4 @@ In this video, I describe work that was only lightly computational but required 
 
 {{% resource_link "357352e6-fd57-4212-8a8c-9dc58bd7e7ef" "Video 32a: Tipping the Iceberg" %}}
 
-Read the full article: Cuthbert, "[Tipping the Iceberg: Missing Italian Polyphony from the Age of Schism](https://www.academia.edu/243060/Tipping_the_Iceberg_Missing_Italian_Polyphony_from_the_Age_of_Schism)," *Musica Disciplina* Vol. LIV (2009), pp. 39–75.
+Read the full article: Cuthbert, "{{% resource_link "fea1a5a8-b47f-4d2b-b8d3-7676d1de67c3" "Tipping the Iceberg: Missing Italian Polyphony from the Age of Schism" %}}," *Musica Disciplina* Vol. LIV (2009), pp. 39–75.
