@@ -1,0 +1,467 @@
+leftnav:
+- identifier: 87f72b73-a189-40a5-9dda-6a83979a78b2
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 8bcfc7fc-b3a4-46ad-90bf-a4892f06d506
+  name: Introduction to the Course and music21
+  pageRef: /pages/introduction-to-the-course-and-music21
+  weight: 20
+- identifier: 9a0ffa67-0d14-480a-85a7-c5b6d955e81e
+  name: 'Week 1: Representation of Durations and Pitches'
+  pageRef: /pages/week-1-introduction-and-topic-1-representation-of-durations-and-pitches
+  weight: 30
+- identifier: e8271327-f4c8-49ad-b945-aecd87afe6e0
+  name: 'Week 2: Intro to Scores and Music Representation'
+  pageRef: /pages/week-2-introduction-to-scores-and-music-representation
+  weight: 40
+- identifier: b986f6a1-6132-4b45-9cd2-96c539408950
+  name: 'Week 3: Representation and Hierarchies'
+  pageRef: /pages/week-3-representation-and-hierarchies
+  weight: 50
+- identifier: 0bd2f8da-a48a-4268-a121-c6548f63ac16
+  name: 'Week 4: Equivalence, Intervals, and Hierarchies'
+  pageRef: /pages/week-4
+  weight: 60
+- identifier: 9a4324ad-3114-40be-a409-5093f88e4b79
+  name: 'Week 5: Corpus Studies and Statistics'
+  pageRef: /pages/week-5
+  weight: 70
+- identifier: 75c7ab9d-0146-4bd2-bf55-0de80b4a7e4d
+  name: 'Week 6: Voice Leading and Equivalence Classes'
+  pageRef: /pages/week-6
+  weight: 80
+- identifier: 7d7ed6f8-bdc9-485a-99c3-cd36baad2b4b
+  name: 'Week 7: Musical Cognition and Introduction to Algorithmic Composition'
+  pageRef: /pages/week-7
+  weight: 90
+- identifier: ece81ef9-1b6d-4d80-b976-63ca4c2d537b
+  name: 'Week 8: Algorithmic Composition'
+  pageRef: /pages/week-8-algorithmic-composition
+  weight: 100
+- identifier: 6112f9f1-3b82-412d-9966-bd471343dfca
+  name: 'Week 9: Algorithmic Composition (cont.)'
+  pageRef: /pages/week-9-algorithmic-composition-iii
+  weight: 110
+- identifier: 210652be-758a-41f9-9300-47589fe6a7ae
+  name: 'Week 10: Feature Extraction and Machine Learning'
+  pageRef: /pages/week-10-feature-extraction-and-machine-learning
+  weight: 120
+- identifier: 43000e70-899b-42b6-b601-24d15f48dd0f
+  name: 'Week 11: Mathematical and Statistical Musicology'
+  pageRef: /pages/week-11-mathematical-and-statistical-musicology
+  weight: 130
+- identifier: 6a60ab4d-7f2f-4bb6-a2e1-45fb3b23320f
+  name: Video Gallery
+  pageRef: /video_galleries/videos
+  weight: 140
+- identifier: a6c8aefd-da2e-432d-8c42-80da2dc0e584
+  name: About This Class and Your Instructor
+  pageRef: /pages/about-this-class-and-your-instructor
+  parent: 8bcfc7fc-b3a4-46ad-90bf-a4892f06d506
+  weight: 10
+- identifier: 5950f778-4a6b-428e-800e-010b90c8d916
+  name: 'Video 0: Overview of the Course for OCW Users'
+  pageRef: /resources/21m383-s23-video_0_intro_mp4
+  parent: 8bcfc7fc-b3a4-46ad-90bf-a4892f06d506
+  weight: 20
+- identifier: 078ed66c-bf67-4c1b-adcd-caf5cc0c4c0e
+  name: music21 Documentation
+  pageRef: /external-resources/music21-documentation
+  parent: 8bcfc7fc-b3a4-46ad-90bf-a4892f06d506
+  weight: 30
+- identifier: 7107b06f-f9da-4f59-a6ad-6bf1e899adb5
+  name: Setting Up Your Own Dev Environment
+  pageRef: /pages/setting-up-your-own-dev-environment
+  parent: 8bcfc7fc-b3a4-46ad-90bf-a4892f06d506
+  weight: 40
+- identifier: f9c39a6e-e138-4678-af7c-3d1e5735c40f
+  name: About Asynchronous Materials
+  pageRef: /pages/about-asynchronous-lecture-sets
+  parent: 8bcfc7fc-b3a4-46ad-90bf-a4892f06d506
+  weight: 50
+- identifier: 5de0d390-8fb1-4cfd-9f3a-5656a7b1c965
+  name: 'Class 1 Video: How Do Computers "Hear" Music?'
+  pageRef: /resources/21m383-s23-lecture-1-feb-8-version3_mp4
+  parent: 9a0ffa67-0d14-480a-85a7-c5b6d955e81e
+  weight: 10
+- identifier: d65363b8-f8d1-4551-ba26-6de1f17672e0
+  name: 'Video 1a: Coding Tutorial for OCW Learners'
+  pageRef: /resources/21m383-s23-video1a_tutorial_mp4
+  parent: 9a0ffa67-0d14-480a-85a7-c5b6d955e81e
+  weight: 20
+- identifier: a0adef09-05ff-4407-9adc-4940a7cc789a
+  name: 'Class 2 Video: Representation of Notes, Pitches, and Durations'
+  pageRef: /resources/21m383-s23-lecture-2-feb-10_mp4
+  parent: 9a0ffa67-0d14-480a-85a7-c5b6d955e81e
+  weight: 30
+- identifier: 87e75dd2-e639-4e5e-90e5-689e7946f55c
+  name: 'Class 3: Asynchronous Materials'
+  pageRef: /pages/week-1-class-3-asynchronous-material
+  parent: 9a0ffa67-0d14-480a-85a7-c5b6d955e81e
+  weight: 40
+- identifier: 2256e4b3-3919-4636-9fa8-34a5a5eebaeb
+  name: How Problem Sets Will Work
+  pageRef: /pages/how-problem-sets-will-work
+  parent: 9a0ffa67-0d14-480a-85a7-c5b6d955e81e
+  weight: 50
+- identifier: f06bf0b1-b18b-47d1-a83a-18cf984833d6
+  name: 'Problem Set 1: Pitch Representation and Manipulation'
+  pageRef: /pages/week-1-problem-set-1
+  parent: 9a0ffa67-0d14-480a-85a7-c5b6d955e81e
+  weight: 60
+- identifier: 77c49794-0665-44ec-a5d4-51c873dd7e0b
+  name: 'Class 4: Introduction to Scores and Music Representation'
+  pageRef: /pages/class-4-introduction-to-scores-and-music-representation
+  parent: e8271327-f4c8-49ad-b945-aecd87afe6e0
+  weight: 10
+- identifier: 3368cf43-2e8b-4562-8a91-30d7bd6ed502
+  name: 'Class 5 Video: Music Representation (II)'
+  pageRef: /resources/21m383-s23-lecture-5-feb-17-version3_mp4
+  parent: e8271327-f4c8-49ad-b945-aecd87afe6e0
+  weight: 20
+- identifier: 38744625-4719-4008-a1ae-16f5480c77d1
+  name: 'Class 6: Asynchronous Material'
+  pageRef: /pages/week-2-asynchronous-materials-on-music-representation-and-representation-of-ontologies
+  parent: e8271327-f4c8-49ad-b945-aecd87afe6e0
+  weight: 30
+- identifier: 3614961d-7dab-4087-87e6-3550304f30ac
+  name: 'Problem Set 2: Computational Ontology + Representation System'
+  pageRef: /pages/week-2-problem-set-2-design-a-computational-ontology-representation-system
+  parent: e8271327-f4c8-49ad-b945-aecd87afe6e0
+  weight: 40
+- identifier: f2649806-8231-484e-84ea-6c6fb5ce82ce
+  name: 'Class 7: Music Representation and Hierarchies'
+  pageRef: /pages/week-3-class-7-music-representation-and-hierarchies
+  parent: b986f6a1-6132-4b45-9cd2-96c539408950
+  weight: 10
+- identifier: e4b6ce5e-5415-4f58-aaa2-6eafe793c6c2
+  name: 'Class 8 Video: Hierarchies: Streams and Recursions'
+  pageRef: /resources/21m383-s23-lecture-8-feb-24_mp4
+  parent: b986f6a1-6132-4b45-9cd2-96c539408950
+  weight: 20
+- identifier: b56750b6-f922-4638-92fd-685623390e9e
+  name: 'Class 9: Asynchronous Material'
+  pageRef: /pages/week-3-class-9-asynchronous-material-on-music-representation-streams-music-information-retrieval-and-musicxml
+  parent: b986f6a1-6132-4b45-9cd2-96c539408950
+  weight: 30
+- identifier: ebe6f16f-9333-4210-af2a-a8bda2585efc
+  name: 'Problem Set 3: Stream Encoding and Bach Chorales'
+  pageRef: /pages/problem-set-3-stream-encoding-and-bach-chorales
+  parent: b986f6a1-6132-4b45-9cd2-96c539408950
+  weight: 40
+- identifier: f152a981-ddb0-48b3-a14d-4e27b68ffc13
+  name: 'Class 10: Equivalence, Intervals, and Hierarchies'
+  pageRef: /pages/week-4-class-10-equivalence-and-intervals-i-hierarchies-iv
+  parent: 0bd2f8da-a48a-4268-a121-c6548f63ac16
+  weight: 10
+- identifier: 2b87c999-8487-4bfe-98d7-42fadf2261ea
+  name: 'Problem Set 4: Equivalence, Representation, and Intervals '
+  pageRef: /pages/week-4-problem-set-4-equivalence-representation-and-intervals
+  parent: 0bd2f8da-a48a-4268-a121-c6548f63ac16
+  weight: 20
+- identifier: ac9cd5db-cd31-46f9-8ab2-17d93af91b92
+  name: 'Class 11: Equivalence, Intervals, and Filters'
+  pageRef: /pages/week-4-class-11-equivalence-and-intervals-ii-and-filters-in-music21
+  parent: 0bd2f8da-a48a-4268-a121-c6548f63ac16
+  weight: 30
+- identifier: 3fabd932-ed0d-41b8-bca0-8fd770af64a4
+  name: 'Class 12: Asynchronous Material'
+  pageRef: /pages/week-5-class-12-asynchronous-material-on-corpus-studies-and-statistics
+  parent: 9a4324ad-3114-40be-a409-5093f88e4b79
+  weight: 10
+- identifier: cd3f3059-bcc0-46e0-9ce5-f533d7ac9929
+  name: 'Problem Set 5: Corpus Research'
+  pageRef: /pages/problem-set-5-research-on-your-own-corpus
+  parent: 9a4324ad-3114-40be-a409-5093f88e4b79
+  weight: 20
+- identifier: 623f259a-d129-406e-b08d-0d43eef849fe
+  name: 'Class 13: Corpus Studies and Statistics'
+  pageRef: /pages/week-5-class-13-corpus-studies-and-statistics
+  parent: 9a4324ad-3114-40be-a409-5093f88e4b79
+  weight: 30
+- identifier: df709746-f080-4b47-b757-f1bb8c681c5e
+  name: 'Class 14 Video: Corpus Studies and Statistics'
+  pageRef: /resources/21m383-s23-lecture-14-mar-10_mp4
+  parent: 9a4324ad-3114-40be-a409-5093f88e4b79
+  weight: 40
+- identifier: 8807a105-2489-4ca3-9b6c-abb14e96467f
+  name: 'Pre-Intro to Voice Leading: Counterpoint from David Lewin'
+  pageRef: /pages/week-6-pre-intro-to-voice-leading-topic-6-counterpoint-from-david-lewin
+  parent: 75c7ab9d-0146-4bd2-bf55-0de80b4a7e4d
+  weight: 10
+- identifier: af4f45f0-f003-4099-9817-f19ec6d2eceb
+  name: 'Class 15 Video: Encoding Corpora and Voice Leading'
+  pageRef: /resources/21m383-s23-lecture-15-mar-17_mp4
+  parent: 75c7ab9d-0146-4bd2-bf55-0de80b4a7e4d
+  weight: 20
+- identifier: 6dcf878d-daba-4ad4-883d-c4e90c153831
+  name: 'Class 16: Asynchronous Material '
+  pageRef: /pages/class-16-asynchronous-materials-on-intervals-and-chords
+  parent: 75c7ab9d-0146-4bd2-bf55-0de80b4a7e4d
+  weight: 30
+- identifier: 64171290-2159-451b-92cc-74773477e705
+  name: 'Problem Set 6: Introduction to Voice Leading'
+  pageRef: /pages/problem-set-6-introduction-to-voice-leading
+  parent: 75c7ab9d-0146-4bd2-bf55-0de80b4a7e4d
+  weight: 40
+- identifier: dc4e322f-257c-4292-80a8-fda9c6e2583f
+  name: 'Class 17: Introduction to Music Cognition'
+  pageRef: /pages/class-17-introduction-to-music-cognition
+  parent: 7d7ed6f8-bdc9-485a-99c3-cd36baad2b4b
+  weight: 10
+- identifier: 93f7b9e3-ffb4-42bb-966f-c9d6aa681855
+  name: 'Classes 18-21 Video: Synopsis of Guest Sessions'
+  pageRef: /resources/21m383-s23-lecture-18-21_mp4
+  parent: 7d7ed6f8-bdc9-485a-99c3-cd36baad2b4b
+  weight: 20
+- identifier: f81ad976-cbe7-4523-8bf3-919f6e3dab98
+  name: 'Class 22: Asynchronous Material'
+  pageRef: /pages/week-7-class-22-asynchronous-material-on-composing-with-scales-chords-and-romannumerals
+  parent: 7d7ed6f8-bdc9-485a-99c3-cd36baad2b4b
+  weight: 30
+- identifier: 0cbbbcb6-b161-48b5-aba7-8a2ad9b99b9f
+  name: Problem Sets 7-8
+  pageRef: /pages/problem-sets-7-8-working-and-composing-with-scales-chords-and-romannumerals
+  parent: 7d7ed6f8-bdc9-485a-99c3-cd36baad2b4b
+  weight: 40
+- identifier: d05bfd8b-0b46-4b78-9c8f-c4ea2c59ae30
+  name: 'Class 22: Asynchronous Material'
+  pageRef: /pages/week-8-class-22-asynchronous-material-on-algorithmic-and-computer-improvisation
+  parent: ece81ef9-1b6d-4d80-b976-63ca4c2d537b
+  weight: 10
+- identifier: d3d213c1-c25f-4599-8de6-2520da766ed6
+  name: 'Class 23 Video: Algorithmic Composition'
+  pageRef: /resources/21m383-s23-lecture-23-apr-12_mp4
+  parent: ece81ef9-1b6d-4d80-b976-63ca4c2d537b
+  weight: 20
+- identifier: 11a15760-a1f1-41e0-b0b8-f82505b889d3
+  name: 'Class 24 Video: Algorithmic Composition (II)'
+  pageRef: /resources/21m383-s23-lecture-24-apr-14_mp4
+  parent: ece81ef9-1b6d-4d80-b976-63ca4c2d537b
+  weight: 30
+- identifier: 59419c6e-9306-4416-ab23-c05120b9d374
+  name: 'Class 25 Video: Algorithmic Composition (III)'
+  pageRef: /resources/21m383-s23-lecture-25-apr-21_mp4
+  parent: 6112f9f1-3b82-412d-9966-bd471343dfca
+  weight: 10
+- identifier: b2e9a54d-c1d3-4b63-978e-cfa966a006b9
+  name: 'Class 26: Asynchronous Material'
+  pageRef: /pages/week-9-class-26-asynchronous-material-on-vocabulary-reduction-and-roman-numerals
+  parent: 6112f9f1-3b82-412d-9966-bd471343dfca
+  weight: 20
+- identifier: a3990bf9-1a90-4f7a-9d59-a78f2abd5441
+  name: 'Problem Set 9: Vocabulary Reduction Key Analysis'
+  pageRef: /pages/problem-set-9-vocab-reduction-key-analysis
+  parent: 6112f9f1-3b82-412d-9966-bd471343dfca
+  weight: 30
+- identifier: 2ac5ba91-85a2-4b94-b535-07dccb165c72
+  name: 'Class 27 Video: Feature Extraction and Machine Learning'
+  pageRef: /resources/21m383-s23-lecture-27-apr-26_mp4
+  parent: 210652be-758a-41f9-9300-47589fe6a7ae
+  weight: 10
+- identifier: d6b79a79-59a8-4f5d-b193-4cdefac27102
+  name: 'Class 28: Feature Extraction and Machine Learning (cont.)'
+  pageRef: /pages/week-10-class-28-feature-extraction-and-machine-learning-cont
+  parent: 210652be-758a-41f9-9300-47589fe6a7ae
+  weight: 20
+- identifier: 6b0f16a8-1944-4394-b9e2-73a19e93f6cf
+  name: 'Class 29: Asynchronous Material'
+  pageRef: /pages/week-10-class-29-asynchronous-material-on-feature-extraction-machine-learning-and-artificial-intelligence
+  parent: 210652be-758a-41f9-9300-47589fe6a7ae
+  weight: 30
+- identifier: eb0e8486-62e5-4750-b7aa-32c7eb231c33
+  name: 'Class 30 Video: Mathematical and Statistical Musicology'
+  pageRef: /resources/21m383-s23-lecture-30-may-3_mp4
+  parent: 43000e70-899b-42b6-b601-24d15f48dd0f
+  weight: 10
+- identifier: 427665f0-6041-4259-8b72-02389dded628
+  name: 'Class 31 Video: Music Visualization and Optical Music Recognition'
+  pageRef: /resources/21m383-s23-lecture-31-may-5_mp4
+  parent: 43000e70-899b-42b6-b601-24d15f48dd0f
+  weight: 20
+- identifier: 4859bfe5-d750-4b66-96cf-969956ebb891
+  name: 'Class 32: Asynchronous Material '
+  pageRef: /pages/week-11-class-32-asynchronous-material-on-computational-music-theory-and-music-history
+  parent: 43000e70-899b-42b6-b601-24d15f48dd0f
+  weight: 30
+- identifier: b88562b4-73b8-415e-b388-b682f0cc3f75
+  name: 'Video 3a: Introduction to Pitch Representation'
+  pageRef: /resources/21m283_video_3a_mp4
+  parent: 87e75dd2-e639-4e5e-90e5-689e7946f55c
+  weight: 10
+- identifier: fdeb5d74-6c63-49dc-8cbc-1f563d6d625b
+  name: 'Video 3b: Pitch Representation: Pros, Cons, and Stakeholders'
+  pageRef: /resources/21m283_video_3b_mp4
+  parent: 87e75dd2-e639-4e5e-90e5-689e7946f55c
+  weight: 20
+- identifier: f0e64821-65ef-41b7-9dba-a1d9bd7cdfc9
+  name: Some Simple Pitch Representations
+  pageRef: /pages/some-simple-pitch-representations
+  parent: 87e75dd2-e639-4e5e-90e5-689e7946f55c
+  weight: 30
+- identifier: bd07cb8e-2cbb-4e00-914a-090afb7e0c41
+  name: 'Video 3c: How to Approach the Problem Sets'
+  pageRef: /resources/21m283_video_3c_mp4
+  parent: 2256e4b3-3919-4636-9fa8-34a5a5eebaeb
+  weight: 10
+- identifier: 6094cb55-e919-442c-9ebc-a45dc321314e
+  name: 'Class 4 Video: Intro to Scores and Music Representation'
+  pageRef: /resources/21m383-s23-lecture-4-feb-15_mp4
+  parent: 77c49794-0665-44ec-a5d4-51c873dd7e0b
+  weight: 10
+- identifier: 119d7337-5c36-4bc8-b189-512d74c8059b
+  name: 'Video 4a: How to Read an Academic Article'
+  pageRef: /resources/21m283_video_4a_mp4
+  parent: 77c49794-0665-44ec-a5d4-51c873dd7e0b
+  weight: 20
+- identifier: 9fee9c06-ccb2-4de3-acf1-4f469ced6926
+  name: 'Video 4b: Music Representation in General'
+  pageRef: /resources/21m283_video_4b_mp4
+  parent: 77c49794-0665-44ec-a5d4-51c873dd7e0b
+  weight: 30
+- identifier: 00cf7eea-e08c-4098-862a-33bff8a9cfce
+  name: 'Video 6a: Unlocking Pitch in music21'
+  pageRef: /resources/21m283_video_6a_mp4
+  parent: 38744625-4719-4008-a1ae-16f5480c77d1
+  weight: 10
+- identifier: a6f28260-409e-4e59-b937-75de1782697c
+  name: "Video 6b: Representations of Ontologies: Craig Sapp\u2019s Rosetta Stone"
+  pageRef: /resources/21m283_video_6b_mp4
+  parent: 38744625-4719-4008-a1ae-16f5480c77d1
+  weight: 20
+- identifier: 7618a988-a693-4e31-8997-58c8f2a78765
+  name: 'Class 7 Video: Music Representation & Hierarchies'
+  pageRef: /resources/21m383-s23-lecture-7-feb-22-version3_mp4
+  parent: f2649806-8231-484e-84ea-6c6fb5ce82ce
+  weight: 10
+- identifier: 55bbf473-a362-44d5-b8b6-fd3ed1db7862
+  name: 'Video 7a: Unlocking Duration and Note Objects'
+  pageRef: /resources/21m283_video_7a_mp4
+  parent: f2649806-8231-484e-84ea-6c6fb5ce82ce
+  weight: 20
+- identifier: 19dc8557-d298-4e5a-a140-8fa93365d90a
+  name: 'Video 7b: Streams as Hierarchies: Types of Containers'
+  pageRef: /resources/21m283_video_7b_mp4
+  parent: f2649806-8231-484e-84ea-6c6fb5ce82ce
+  weight: 30
+- identifier: b29ec92b-7fe9-40ca-9924-8dc345ba7797
+  name: 'Video 7c: Streams, Corpus, and Meter Features'
+  pageRef: /resources/21m283_video_7c_mp4
+  parent: f2649806-8231-484e-84ea-6c6fb5ce82ce
+  weight: 40
+- identifier: 2cbdbe78-d9cb-4525-9481-013328c6919c
+  name: 'Video 7d: Partwise vs. Timewise Polyphonic Representations'
+  pageRef: /resources/21m283_video_7d_mp4
+  parent: f2649806-8231-484e-84ea-6c6fb5ce82ce
+  weight: 50
+- identifier: 2d23844d-d0fb-414e-8d90-0f7069d3a0dd
+  name: 'Video 9a: Sound to Score and Music Theory'
+  pageRef: /resources/21m283_video_9a_mp4
+  parent: b56750b6-f922-4638-92fd-685623390e9e
+  weight: 10
+- identifier: 7ff2fefb-564f-4e21-8bcb-d0bf794a0564
+  name: 'Video 9b: Introduction to MusicXML'
+  pageRef: /resources/21m283_video_9b_mp4
+  parent: b56750b6-f922-4638-92fd-685623390e9e
+  weight: 20
+- identifier: d987b47d-6c02-4c04-8e59-d867a46c7bc0
+  name: 'Video 9c: Interview with Michael Good on MusicXML'
+  pageRef: /resources/21m283_video_9c_mp4
+  parent: b56750b6-f922-4638-92fd-685623390e9e
+  weight: 30
+- identifier: e3405b31-a744-418f-9feb-def24a782728
+  name: 'Class 10 Video: Equivalence, Intervals, Hierarchies'
+  pageRef: /resources/21m383-s23-lecture-10-mar-1_mp4
+  parent: f152a981-ddb0-48b3-a14d-4e27b68ffc13
+  weight: 10
+- identifier: 131353cc-3c32-409e-9c68-db6e6af4dadc
+  name: 'Video 10a: Review: Equivalence Classes and OPTIC'
+  pageRef: /resources/21m283_video_10a_mp4
+  parent: f152a981-ddb0-48b3-a14d-4e27b68ffc13
+  weight: 20
+- identifier: 30c354dc-e300-48ac-8639-7584751e0bb4
+  name: 'Class 11 Video: Equivalence, Intervals, and Filters'
+  pageRef: /resources/21m383-s23-lecture-11-mar-3_mp4
+  parent: ac9cd5db-cd31-46f9-8ab2-17d93af91b92
+  weight: 10
+- identifier: 62a32071-5e03-4251-8ecb-5217314f9ad7
+  name: 'Video 12a: Painting Emotions in Music and Text'
+  pageRef: /resources/21m283_video_12a_mp4
+  parent: 3fabd932-ed0d-41b8-bca0-8fd770af64a4
+  weight: 10
+- identifier: df0d7e47-d2b9-417d-b9a2-80ec65b4c2b8
+  name: 'Video 12b: Chorales as a Corpus'
+  pageRef: /resources/21m283_video_12b_mp4
+  parent: 3fabd932-ed0d-41b8-bca0-8fd770af64a4
+  weight: 20
+- identifier: b47a371b-ee86-447e-8cee-7615e6eef800
+  name: 'Video 12c: Graphing and Plotting'
+  pageRef: /resources/21m283_video_12c_mp4
+  parent: 3fabd932-ed0d-41b8-bca0-8fd770af64a4
+  weight: 30
+- identifier: bd6845c3-369d-454f-bf89-7d33d8c4d4d4
+  name: 'Video 12d: How to Work with Ties'
+  pageRef: /resources/21m283_video_12d_mp4
+  parent: 3fabd932-ed0d-41b8-bca0-8fd770af64a4
+  weight: 40
+- identifier: 449ce87f-7daf-4e40-b90b-e978edfea26c
+  name: 'Class 13 Video: Corpus Studies and Statistics'
+  pageRef: /resources/21m383-s23-lecture-13-mar-8_mp4
+  parent: 623f259a-d129-406e-b08d-0d43eef849fe
+  weight: 10
+- identifier: f9792d9e-d338-4bdd-80ec-133461fbb45c
+  name: Doubly-Diminished Octaves
+  pageRef: /pages/week-6-doubly-diminished-ocataves
+  parent: 6dcf878d-daba-4ad4-883d-c4e90c153831
+  weight: 10
+- identifier: d71cafea-95e8-49c7-b851-b3b71ed02bde
+  name: 'Class 17 Video: Introduction to Music Cognition'
+  pageRef: /resources/21m383-s23-lecture-17-mar-22_mp4
+  parent: dc4e322f-257c-4292-80a8-fda9c6e2583f
+  weight: 10
+- identifier: 3b53b873-770c-4e9c-82ea-5ddafdf0e3a0
+  name: 'Video 22a: Chord Review and 13th Chords'
+  pageRef: /resources/21m283_video_22a_mp4
+  parent: f81ad976-cbe7-4523-8bf3-919f6e3dab98
+  weight: 10
+- identifier: 61de0e7f-96ed-44f7-ae71-fba5580841fc
+  name: 'Video 22b: Problem Sets 7-8'
+  pageRef: /resources/21m283_video_22b_mp4
+  parent: f81ad976-cbe7-4523-8bf3-919f6e3dab98
+  weight: 20
+- identifier: c884384d-f969-4bb9-92b6-b21e2f7d0f1c
+  name: 'Video 22c: Algorithmic Improvisation: Intro to George Lewis'
+  pageRef: /resources/21m283_video_22c_mp4
+  parent: d05bfd8b-0b46-4b78-9c8f-c4ea2c59ae30
+  weight: 10
+- identifier: aa3e54ac-7d97-4903-a8d8-6154342ab2a6
+  name: 'Video 22d: Why Do We Want Our Computers to Improvise? '
+  pageRef: /external-resources/video-22d-why-do-we-want-our-computers-to-improvise
+  parent: d05bfd8b-0b46-4b78-9c8f-c4ea2c59ae30
+  weight: 20
+- identifier: 7ef35009-7615-494d-845e-43cea6fd42c9
+  name: 'Video 26a: Vocabulary Reduction'
+  pageRef: /resources/21m283_video_26a_mp4
+  parent: b2e9a54d-c1d3-4b63-978e-cfa966a006b9
+  weight: 10
+- identifier: aa27cb02-11d7-4769-ba4c-6db1f818df8f
+  name: Corpora and Parsers for Roman Numerals
+  pageRef: /pages/corpora-and-parsers-for-roman-numerals
+  parent: b2e9a54d-c1d3-4b63-978e-cfa966a006b9
+  weight: 20
+- identifier: 72a4fe58-78ae-431e-adb7-ba01345387ab
+  name: 'Class 28 Video: Feature Extraction and Machine Learning (II)'
+  pageRef: /resources/21m383-s23-lecture-28-apr-28_mp4
+  parent: d6b79a79-59a8-4f5d-b193-4cdefac27102
+  weight: 10
+- identifier: f7b95b69-5a3f-4e51-b4b5-181f8dc7ed95
+  name: 'Video 29a: Feature Extraction, Machine Learning, Artificial Intelligence'
+  pageRef: /resources/21m283_video_29a_mp4
+  parent: 6b0f16a8-1944-4394-b9e2-73a19e93f6cf
+  weight: 10
+- identifier: 357352e6-fd57-4212-8a8c-9dc58bd7e7ef
+  name: 'Video 32a: Tipping the Iceberg'
+  pageRef: /resources/21m283_video_32a_mp4
+  parent: 4859bfe5-d750-4b66-96cf-969956ebb891
+  weight: 10

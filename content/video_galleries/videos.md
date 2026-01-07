@@ -1,0 +1,57 @@
+---
+content_type: video_gallery
+draft: false
+title: Videos
+uid: 6a60ab4d-7f2f-4bb6-a2e1-45fb3b23320f
+videos:
+  content:
+  - 5950f778-4a6b-428e-800e-010b90c8d916
+  - 5de0d390-8fb1-4cfd-9f3a-5656a7b1c965
+  - d65363b8-f8d1-4551-ba26-6de1f17672e0
+  - a0adef09-05ff-4407-9adc-4940a7cc789a
+  - b88562b4-73b8-415e-b388-b682f0cc3f75
+  - fdeb5d74-6c63-49dc-8cbc-1f563d6d625b
+  - bd07cb8e-2cbb-4e00-914a-090afb7e0c41
+  - 6094cb55-e919-442c-9ebc-a45dc321314e
+  - 119d7337-5c36-4bc8-b189-512d74c8059b
+  - 9fee9c06-ccb2-4de3-acf1-4f469ced6926
+  - 3368cf43-2e8b-4562-8a91-30d7bd6ed502
+  - 00cf7eea-e08c-4098-862a-33bff8a9cfce
+  - a6f28260-409e-4e59-b937-75de1782697c
+  - 7618a988-a693-4e31-8997-58c8f2a78765
+  - 55bbf473-a362-44d5-b8b6-fd3ed1db7862
+  - 19dc8557-d298-4e5a-a140-8fa93365d90a
+  - b29ec92b-7fe9-40ca-9924-8dc345ba7797
+  - 2cbdbe78-d9cb-4525-9481-013328c6919c
+  - e4b6ce5e-5415-4f58-aaa2-6eafe793c6c2
+  - 2d23844d-d0fb-414e-8d90-0f7069d3a0dd
+  - 7ff2fefb-564f-4e21-8bcb-d0bf794a0564
+  - d987b47d-6c02-4c04-8e59-d867a46c7bc0
+  - e3405b31-a744-418f-9feb-def24a782728
+  - 131353cc-3c32-409e-9c68-db6e6af4dadc
+  - 30c354dc-e300-48ac-8639-7584751e0bb4
+  - 62a32071-5e03-4251-8ecb-5217314f9ad7
+  - df0d7e47-d2b9-417d-b9a2-80ec65b4c2b8
+  - b47a371b-ee86-447e-8cee-7615e6eef800
+  - bd6845c3-369d-454f-bf89-7d33d8c4d4d4
+  - 449ce87f-7daf-4e40-b90b-e978edfea26c
+  - df709746-f080-4b47-b757-f1bb8c681c5e
+  - af4f45f0-f003-4099-9817-f19ec6d2eceb
+  - d71cafea-95e8-49c7-b851-b3b71ed02bde
+  - 93f7b9e3-ffb4-42bb-966f-c9d6aa681855
+  - 3b53b873-770c-4e9c-82ea-5ddafdf0e3a0
+  - 61de0e7f-96ed-44f7-ae71-fba5580841fc
+  - c884384d-f969-4bb9-92b6-b21e2f7d0f1c
+  - d3d213c1-c25f-4599-8de6-2520da766ed6
+  - 11a15760-a1f1-41e0-b0b8-f82505b889d3
+  - 59419c6e-9306-4416-ab23-c05120b9d374
+  - 7ef35009-7615-494d-845e-43cea6fd42c9
+  - 2ac5ba91-85a2-4b94-b535-07dccb165c72
+  - 72a4fe58-78ae-431e-adb7-ba01345387ab
+  - f7b95b69-5a3f-4e51-b4b5-181f8dc7ed95
+  - eb0e8486-62e5-4750-b7aa-32c7eb231c33
+  - 427665f0-6041-4259-8b72-02389dded628
+  - 357352e6-fd57-4212-8a8c-9dc58bd7e7ef
+  website: computational-music-theory-and-analysis
+---
+A list of the videos in this course.
